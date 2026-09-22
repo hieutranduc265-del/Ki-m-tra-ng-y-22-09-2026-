@@ -75,7 +75,7 @@ int main() {
     Node* root;
     khoiTao(root);
 
- Cau 3
+ //Cau 3
     int n;
     cout << "Nhap so luong sinh vien: ";
     cin >> n;
